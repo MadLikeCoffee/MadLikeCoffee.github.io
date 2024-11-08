@@ -6,10 +6,10 @@
 }
 body{
     background-image: var(--background-element1), var(--background-element2);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
+    background-repeat: no-repeat, no-repeat;
+    background-attachment: fixed, fixed;
+    background-position: center, center;
+    background-size: cover, cover;
     margin: 0px;
 }
 .header{
