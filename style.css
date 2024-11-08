@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
 }
 body{
-    background-image: url(Images/BackGround.png);
+    background-image: var(--background-element1), var(--background-element2);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;

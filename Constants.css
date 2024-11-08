@@ -1,0 +1,8 @@
+.darkmode{
+--background-element1:url(Elements/star\ background1\ white.svg);
+--background-element2:url(Elements/sun\ background2\ white.svg);
+}
+.lightmode{
+--background-element1:url(Elements/star\ background1\ purple.svg.svg);
+--background-element2:url(Elements/sun\ background2\ purple.svg.svg);
+}
